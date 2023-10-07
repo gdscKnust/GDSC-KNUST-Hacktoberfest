@@ -4,3 +4,5 @@ Welcome to our Hacktoberfest repository! We're excited to have you here and enco
 
 ## Names of Contributors
   
+...
+Eugene Anokye - Computer Science
