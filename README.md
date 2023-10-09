@@ -8,10 +8,9 @@ Welcome to our Hacktoberfest repository! We're excited to have you here and enco
 
   `Eugene Anokye - Computer Science`
   
-  `Jude Boachie - Computer Engine`
+  `Jude Boachie - Computer Engineering`
   
   `Bernard Mawulorm Kofi Wodoame - Computer Engineering`
   
-  `Gyau Boahen Elvis - Computer Enginering`
-
   `Aayushi Yadav - Data Science`
+  
