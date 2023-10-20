@@ -13,3 +13,5 @@ Welcome to our Hacktoberfest repository! We're excited to have you here and enco
   `Bernard Mawulorm Kofi Wodoame - Computer Engineering`
   
   `Gyau Boahen Elvis - Computer Engineering`
+  
+  `Gabriel Nii Attoh Quaye - Computer Engineering`
